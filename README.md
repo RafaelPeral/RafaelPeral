@@ -14,12 +14,10 @@
     <div>
       Fascinado pelo poder e versatilidade do Python, iniciei minha jornada na programação através do Arduino e da robótica. Inspirado pelo potencial da linguagem, mergulhei no universo do Python, dedicando-me a aprender seus fundamentos e explorar suas diversas aplicações.
       <summary><h3>Minhas paixões:</h3></summary>
-        Desenvolvimento de software: Criar programas que solucionam problemas, automatizam tarefas e facilitam a vida das pessoas me traz grande satisfação.
+        <strong>Desenvolvimento de software:</strong> Criar programas que solucionam problemas, automatizam tarefas e facilitam a vida das pessoas me traz grande satisfação.
         </br>
         </br>
-        Automação: Encontro grande prazer em automatizar tarefas repetitivas, otimizando processos e liberando tempo para atividades mais criativas.
-
-          
+        Automação: Encontro grande prazer em automatizar tarefas repetitivas, otimizando processos e liberando tempo para atividades mais criativas.          
     </div>
 </details>
 
@@ -34,11 +32,6 @@
 
 
 
-Fascinado pelo poder e versatilidade do Python, iniciei minha jornada na programação através do Arduino e da robótica. Inspirado pelo potencial da linguagem, mergulhei no universo do Python, dedicando-me a aprender seus fundamentos e explorar suas diversas aplicações.
-Minhas paixões:
-Desenvolvimento de software: Criar programas que solucionam problemas, automatizam tarefas e facilitam a vida das pessoas me traz grande satisfação.
-
-Automação: Encontro grande prazer em automatizar tarefas repetitivas, otimizando processos e liberando tempo para atividades mais criativas.
 
 Aprendizado contínuo:
 Minha jornada de aprendizado em Python tem sido enriquecedora e desafiadora. Dediquei-me a estudar tutoriais online, participar de cursos e workshops e desenvolver projetos pessoais para aprimorar minhas habilidades.
