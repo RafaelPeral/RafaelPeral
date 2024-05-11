@@ -88,6 +88,21 @@
 
 
 
+<details> 
+  <summary><h2>🌐 Connect with me</h2></summary>
+  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=A901DB&&color:FFF)](mailto:rafaelvenet@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A901DB&&color:FFF)](https://www.linkedin.com/in/rafael-peral-83438a278/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=A901DB&&color:FFF)](https://www.instagram.com/rafaelvenet/)
+  [![Instagram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=A901DB&&color:FFF)](https://t.me/RafaelPeral)
+<details> 
+
+
+
+<!-- Portfolio -->
+<details> 
+  <summary><h2>⚡ Portfolio</h2></summary>
+<details> 
+
 
 
 <!-- Stats -->
