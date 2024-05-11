@@ -91,6 +91,8 @@
 
 
 <!-- Stats -->
+<details> 
+  <summary><h2>🔥 Stats</h2></summary>
   <!-- GitHub Stats -->
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RafaelPeral&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -104,5 +106,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelPeral/RafaelPeral/output/github-contribution-grid-snake-dark.svg">
     <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RafaelPeral/RafaelPeral/output/github-contribution-grid-snake.svg">
   </picture>
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
