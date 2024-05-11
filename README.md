@@ -19,11 +19,6 @@
             <br>
             Automação: Encontro grande prazer em automatizar tarefas repetitivas, otimizando processos e liberando tempo para atividades mais criativas.
           </div>
-     
-
-
-
-
       </div>
 </details>
 
