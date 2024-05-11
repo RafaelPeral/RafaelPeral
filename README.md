@@ -10,11 +10,15 @@
 
 
 <details> 
-  <summary><h2>💫 About me</h2></summary>
+  <summary><h1>💫 About me</h1></summary>
     <div>
       Fascinado pelo poder e versatilidade do Python, iniciei minha jornada na programação através do Arduino e da robótica. Inspirado pelo potencial da linguagem, mergulhei no universo do Python, dedicando-me a aprender seus fundamentos e explorar suas diversas aplicações.
-    <summary><h3>Minhas paixões:</h3></summary>
-          ttt
+      <summary><h3>Minhas paixões:</h3></summary>
+        Desenvolvimento de software: Criar programas que solucionam problemas, automatizam tarefas e facilitam a vida das pessoas me traz grande satisfação.
+
+        Automação: Encontro grande prazer em automatizar tarefas repetitivas, otimizando processos e liberando tempo para atividades mais criativas.
+
+          
     </div>
 </details>
 
@@ -29,7 +33,34 @@
 
 
 
+Fascinado pelo poder e versatilidade do Python, iniciei minha jornada na programação através do Arduino e da robótica. Inspirado pelo potencial da linguagem, mergulhei no universo do Python, dedicando-me a aprender seus fundamentos e explorar suas diversas aplicações.
+Minhas paixões:
+Desenvolvimento de software: Criar programas que solucionam problemas, automatizam tarefas e facilitam a vida das pessoas me traz grande satisfação.
 
+Automação: Encontro grande prazer em automatizar tarefas repetitivas, otimizando processos e liberando tempo para atividades mais criativas.
+
+Aprendizado contínuo:
+Minha jornada de aprendizado em Python tem sido enriquecedora e desafiadora. Dediquei-me a estudar tutoriais online, participar de cursos e workshops e desenvolver projetos pessoais para aprimorar minhas habilidades.
+Objetivos ambiciosos:
+Domínio do Python: Aspiro me tornar um programador Python proficiente e versátil, capaz de desenvolver soluções inovadoras e eficientes.
+
+Contribuição à comunidade: Acredito na importância de compartilhar conhecimento e colaborar em projetos open-source, contribuindo para o crescimento da comunidade Python.
+
+Impacto positivo: Pretendo utilizar minhas habilidades em Python para causar um impacto positivo no mundo, solucionando problemas e criando ferramentas úteis.
+
+Habilidades complementares:
+Forte capacidade de resolução de problemas e pensamento crítico.
+
+Excelentes habilidades de comunicação e interpessoais.
+
+Paixão por aprender e se adaptar a novas tecnologias.
+
+Dedicação e persistência para superar desafios e alcançar meus objetivos.
+
+Dedicação e entusiasmo:
+Sou um entusiasta dedicado, sempre buscando aprender e crescer na área da programação. Acredito que a tecnologia e a programação são ferramentas poderosas que podem transformar o mundo, e estou ansioso para fazer parte dessa jornada.
+Confiança e disponibilidade:
+Estou confiante de que minhas habilidades e meu entusiasmo me tornarão um ativo valioso para qualquer equipe. Se você busca um programador Python dedicado e apaixonado, por favor, entre em contato.
 
 
 
