@@ -93,9 +93,9 @@
   <summary><h3>🌐 Connect with me</h3></summary>
      <div>
           <a href = "mailto:rafaelvenet@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=A901DB&&color:FFF"></a>
-          <a href="https://www.linkedin.com/in/rafael-peral-83438a278/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=A901DB&&color:FFF"></a>   
-          <a href="https://www.instagram.com/rafaelvenet/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=A901DB&&color:FFF"></a>
-          <a href="https://t.me/RafaelPeral" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=A901DB&&color:FFF"></a>
+          <a href="https://www.linkedin.com/in/rafael-peral-83438a278/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A901DB&&color:FFF"></a>   
+          <a href="https://www.instagram.com/rafaelvenet/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=A901DB&&color:FFF"></a>
+          <a href="https://t.me/RafaelPeral" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=A901DB&&color:FFF"></a>
      </div>
 </details>
 
