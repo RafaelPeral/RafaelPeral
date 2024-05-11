@@ -13,7 +13,7 @@
   <summary><h2>💫 About me</h2></summary>
     <div>
       Fascinado pelo poder e versatilidade do Python, iniciei minha jornada na programação através do Arduino e da robótica. Inspirado pelo potencial da linguagem, mergulhei no universo do Python, dedicando-me a aprender seus fundamentos e explorar suas diversas aplicações.
-      <summary><h3>Minhas paixões:</h3></summary>
+    <summary><h3>Minhas paixões:</h3></summary>
           ttt
     </div>
 </details>
