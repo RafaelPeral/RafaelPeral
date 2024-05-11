@@ -88,10 +88,7 @@
 
 
 
-<details> 
-  <summary><h2>🌐 Connect with me</h2></summary>
 
-<details> 
 
 
 
