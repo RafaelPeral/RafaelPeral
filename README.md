@@ -13,17 +13,17 @@
 <div>
   Fascinado pelo poder e versatilidade do Python, iniciei minha jornada na programação através do Arduino e da robótica. Inspirado pelo potencial da linguagem, mergulhei no universo do Python, dedicando-me a aprender seus fundamentos e explorar suas diversas aplicações.
   <details>
-    <summary><h3>Minhas paixões:</h3></summary>
+    <summary><h5>Minhas paixões:</h5></summary>
       <strong>Desenvolvimento de software:</strong> Criar programas que solucionam problemas, automatizam tarefas e facilitam a vida das pessoas me traz grande satisfação.
       </br></br>
       <strong>Automação:</strong> Encontro grande prazer em automatizar tarefas repetitivas, otimizando processos e liberando tempo para atividades mais criativas.
   </details>
   <details>
-    <summary><h3>Aprendizado contínuo:</h3></summary>
+    <summary><h5>Aprendizado contínuo:</h5></summary>
       Minha jornada de aprendizado em Python tem sido enriquecedora e desafiadora. Dediquei-me a estudar tutoriais online, participar de cursos e workshops e desenvolver projetos pessoais para aprimorar minhas habilidades.
   </details>
   <details>
-    <summary><h3>Objetivos ambiciosos:</h3></summary>
+    <summary><h5>Objetivos ambiciosos:</h5></summary>
       <summary>Domínio do Python:</summary> Aspiro me tornar um programador Python proficiente e versátil, capaz de desenvolver soluções inovadoras e eficientes.
       </br>
       <summary>Contribuição à comunidade:</summary> Acredito na importância de compartilhar conhecimento e colaborar em projetos open-source, contribuindo para o crescimento da comunidade Python.
@@ -31,7 +31,7 @@
       <summary>Impacto positivo:</summary> Pretendo utilizar minhas habilidades em Python para causar um impacto positivo no mundo, solucionando problemas e criando ferramentas úteis.
   </details>
   <details>
-    <summary><h3>Habilidades complementares:</h3></summary>
+    <summary><h5>Habilidades complementares:</h5></summary>
       Forte capacidade de resolução de problemas e pensamento crítico.
       </br></br>
       Excelentes habilidades de comunicação e interpessoais.
@@ -41,11 +41,11 @@
       Dedicação e persistência para superar desafios e alcançar meus objetivos.
   </details>
   <details>
-    <summary><h3>Dedicação e entusiasmo:</h3></summary>
+    <summary><h5>Dedicação e entusiasmo:</h5></summary>
       Sou um entusiasta dedicado, sempre buscando aprender e crescer na área da programação. Acredito que a tecnologia e a programação são ferramentas poderosas que podem transformar o mundo, e estou ansioso para fazer parte dessa jornada.
   </details>
   <details>
-    <summary><h3>Confiança e disponibilidade:</h3></summary>
+    <summary><h5>Confiança e disponibilidade:</h5></summary>
       Estou confiante de que minhas habilidades e meu entusiasmo me tornarão um ativo valioso para qualquer equipe. Se você busca um programador Python dedicado e apaixonado, por favor, entre em contato.
   </details>
 </div>
@@ -60,7 +60,7 @@
   </summary>
      <div>
       <!-- Programming Languages -->
-      <summary><h3>Programming Languages</h3></summary>
+      <summary><h5>Programming Languages</h5></summary>
         <div align="left">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
           <img width="12" />
@@ -73,7 +73,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
         </div>
       <!-- Tools & Frameworks -->
-      <summary><h3>Tools & Frameworks</h3></summary>
+      <summary><h5>Tools & Frameworks</h5></summary>
         <div align="left">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
           <img width="12" />
@@ -84,7 +84,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
         </div>
       <!-- Libraries -->
-      <summary><h3>Libraries</h3></summary>
+      <summary><h5>Libraries</h5></summary>
         <div align="left">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
           <img width="12" />
