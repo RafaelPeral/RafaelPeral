@@ -48,7 +48,10 @@
 
 <!-- Skills -->
 <details> 
-  <summary><h2>💻 Skills</h2></summary>
+  <summary>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+    <h2>Skills</h2>
+  </summary>
      <div>
       <!-- Programming Languages -->
       <summary><h3>Programming Languages</h3></summary>
@@ -88,7 +91,9 @@
 
 <!-- Connect -->
 <details> 
-  <summary><h2>🌐 Connect with me</h2></summary>
+  <summary>
+    <h2>🌐 Connect with me</h2>
+  </summary>
      <div>
           <!-- Email -->
           <a href = "mailto:rafaelvenet@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=A901DB&&color:FFF"></a>
@@ -105,7 +110,10 @@
 
 <!-- Portfolio -->
 <details> 
-  <summary><h2>⚡ Portfolio</h2></summary>
+  <summary>
+    <img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e472dn9ibwtf9czm1rfs7icyz2avlb8pph666unq8pj&ep=v1_stickers_search&rid=giphy.gif" width ="35">
+    <h2>Portfolio</h2>
+  </summary>
      <div>
      </div>
 </details>
@@ -114,7 +122,10 @@
 
 <!-- Stats -->
 <details> 
-  <summary><h2>🔥 Stats</h2></summary>
+  <summary>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+    <h2>Stats</h2>
+  </summary>
   <!-- GitHub Stats -->
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RafaelPeral&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
