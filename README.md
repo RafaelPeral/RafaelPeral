@@ -132,7 +132,7 @@
   <summary><h2>
     <img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e472dn9ibwtf9czm1rfs7icyz2avlb8pph666unq8pj&ep=v1_stickers_search&rid=giphy.gif" width ="35">
     Portfolio
-  </h2></summary>
+  </h2></hr></summary>
   <div>
     fygvh
   </div>
@@ -145,7 +145,7 @@
   <summary><h2>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/>
     Stats
-  </h2></summary>
+  </h2></hr></summary>
   <!-- GitHub Stats -->
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RafaelPeral&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
