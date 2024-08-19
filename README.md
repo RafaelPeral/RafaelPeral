@@ -92,7 +92,8 @@
 <!-- Connect -->
 <details> 
   <summary>
-    <h2>🌐 Connect with me</h2>
+    <img src='https://github.com/user-attachments/assets/18de3bf8-19c3-42b3-9275-28dab2b71438' width ="35" />
+    <h2>Connect with me</h2>
   </summary>
      <div>
           <!-- Email -->
