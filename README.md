@@ -108,47 +108,50 @@
 
 
 <!-- Connect -->
-<details> 
-  <summary>
-    <img src='https://github.com/user-attachments/assets/18de3bf8-19c3-42b3-9275-28dab2b71438' width ="35" />
-    <h2>Connect with me</h2>
-  </summary>
-     <div>
-          <!-- Email -->
-          <a href = "mailto:rafaelvenet@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=A901DB&&color:FFF"></a>
-          <!-- LinkedIn -->
-          <a href="https://www.linkedin.com/in/rafael-peral-83438a278/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A901DB&&color:FFF"></a>   
-          <!-- Instagram -->
-          <a href="https://www.instagram.com/rafaelvenet/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=A901DB&&color:FFF"></a>
-          <!-- Connect -->
-          <a href="https://t.me/RafaelPeral" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=instagram&logoColor=A901DB&&color:FFF"></a>
-     </div>
-</details>
-
-
-
-<!-- Portfolio -->
-<img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e472dn9ibwtf9czm1rfs7icyz2avlb8pph666unq8pj&ep=v1_stickers_search&rid=giphy.gif" width ="35">
-<h2>Portfolio</h2>
 <div>
-  fygvh
+  <h2>
+    <img src='https://github.com/user-attachments/assets/18de3bf8-19c3-42b3-9275-28dab2b71438' width ="35" />
+    Connect with me
+  </h2>
+  <div>
+    <!-- Email -->
+    <a href = "mailto:rafaelvenet@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&color:FFF"></a>
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/rafael-peral-83438a278/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A901DB&&color:FFF"></a>   
+    <!-- Instagram -->
+    <a href="https://www.instagram.com/rafaelvenet/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=A901DB&&color:FFF"></a>
+    <!-- Connect -->
+    <a href="https://t.me/RafaelPeral" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=instagram&logoColor=A901DB&&color:FFF"></a>
+  </div>
 </div>
 
 
 
+<!-- Portfolio -->
+<details>
+  <summary><h2>
+    <img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e472dn9ibwtf9czm1rfs7icyz2avlb8pph666unq8pj&ep=v1_stickers_search&rid=giphy.gif" width ="35">
+    Portfolio
+  </h2></summary>
+  <div>
+    fygvh
+  </div>
+</details>
+
+
+
 <!-- Stats -->
-<details> 
-  <summary>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-    <h2>Stats</h2>
-  </summary>
+<details>
+  <summary><h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/>
+    Stats
+  </h2></summary>
   <!-- GitHub Stats -->
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RafaelPeral&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
     <img src="https://streak-stats.demolab.com?user=RafaelPeral&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelPeral&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
   </div>
-
   <!-- Cobrinha -->
   <picture align="center">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelPeral/RafaelPeral/output/github-contribution-grid-snake-dark.svg">
@@ -157,12 +160,6 @@
   </picture>
 </details>
 
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-
-
-
-
-<img src='' width ="45">
