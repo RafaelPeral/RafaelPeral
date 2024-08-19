@@ -69,44 +69,40 @@
     Skills
   </h2>
   <div>
-    <!-- front-end -->
     <details>
-    </details>
-    <!-- back-end -->
-    <div>
-    </div>
       <!-- Programming Languages -->
-      <summary><h4>Programming Languages</h4></summary>
-        <div align="left">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-        </div>
+      <summary><h3>Languages:</h3></summary>
+      <img src='https://github.com/user-attachments/assets/ab472791-6129-43d5-97ce-c860bb27e453' width ="45" alt='Python Logo'/>
+      <img src='https://github.com/user-attachments/assets/041a272d-0e4c-47d8-b506-15ae32c7a3fa' width ="45" alt='Javascript Logo'/>
+      <img src='https://github.com/user-attachments/assets/0f60dcd1-e970-4f68-b963-02cdafddbd9b' width ="45" alt='Typescript Logo'/>
+      <img src='https://github.com/user-attachments/assets/bfdbfcec-2f60-4144-999b-83c45bb188e7' width ="45" alt='HTML Logo'/>
+      <img src='https://github.com/user-attachments/assets/b38fb9ba-f7ba-412c-a0d8-49de69bd60fd' width ="45" alt='CSS Logo'/>
+      <img src='https://github.com/user-attachments/assets/6e9e4560-7c89-4e34-b805-5f113d6393fb' width ="45" alt='Arduino Logo'/>
+    </details>
+    <details>
       <!-- Tools & Frameworks -->
-      <summary><h4>Tools & Frameworks</h4></summary>
-        <div align="left">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-        </div>
+      <summary><h3>Tools & Frameworks:</h3></summary>
+      <img src='https://github.com/user-attachments/assets/32042700-2064-40ed-86cc-47f510629379' width ="45" alt='Anaconda Logo'/>
+      <img src='https://github.com/user-attachments/assets/94f14724-9cdb-4025-abc8-015bde67e8bd' width ="45" alt='Jupyter Logo'/>
+      <img src='https://github.com/user-attachments/assets/e1661c82-68b2-4a8a-b598-ed7b06bc4ce7' width ="45" alt='Vite Logo'/>
+      <img src='https://github.com/user-attachments/assets/9515bda8-50ca-486d-b033-4834bc658b84' width ="45" alt='Pycharm Logo'/>
+      <img src='https://github.com/user-attachments/assets/66391eea-0872-406e-a4ff-59d5a16a14fa' width ="45" alt='VS Code Logo'/>
+      <img src='https://github.com/user-attachments/assets/a8a809a1-a89e-42d4-b481-cc72d0b04ea9' width ="45" alt='React Logo'/>
+      <img src='https://github.com/user-attachments/assets/e35d10ed-b330-426f-82c9-5eb83dfba05a' width ="45" alt='Tailwind Logo'/>
+    </details>
+    <details>
       <!-- Libraries -->
-      <summary><h4>Libraries</h4></summary>
-        <div align="left">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-        </div>
-     </div>
+      <summary><h3>Libraries</h3></summary>
+      <img src='https://github.com/user-attachments/assets/b1ab95c7-3080-4533-92f3-a004ce0956da' width ="45" alt='Pandas Logo'/>
+      <img src='https://github.com/user-attachments/assets/76aae124-e13d-4d4b-ad20-640dd27347a6' width ="45" alt='Selenium Logo'/>
+      <img src='https://github.com/user-attachments/assets/76e3597e-1730-4356-89a9-c1f6423127c3' width ="45" alt='Matplotlib Logo'/>
+      <img src='https://github.com/user-attachments/assets/5d5afc00-5ee1-4ae4-a133-dc53cc652bb8' width ="45" alt='Scikit-learn Logo'/>
+      <img src='https://github.com/user-attachments/assets/47b56c9a-cd61-49e7-976d-4d0d9cf1664c' width ="45" alt='Ploty Logo'/>
+      <img src='https://github.com/user-attachments/assets/03f80f13-71c4-4cf4-ade6-2be166b27d2e' width ="45" alt='Django Logo'/>
+      <img src='https://github.com/user-attachments/assets/23cca888-791b-4d3b-b844-4cfca63b3135' width ="45" alt='Pytest Logo'/>
+      <img src='https://github.com/user-attachments/assets/1e1093cf-3f29-438a-a1e8-c949fe7c26fa' width ="45" alt='Flask Logo'/>
+    </details>
+  </div>
 </div>
 
 
@@ -162,3 +158,11 @@
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
+
+
+
+<img src='' width ="45">
