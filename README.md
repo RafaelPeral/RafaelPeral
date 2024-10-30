@@ -89,18 +89,25 @@
       <a href="https://code.visualstudio.com" target="_blank"><img src='https://github.com/user-attachments/assets/66391eea-0872-406e-a4ff-59d5a16a14fa' width ="45" alt='VS Code Logo'/></a>
       <a href="https://react.dev" target="_blank"><img src='https://github.com/user-attachments/assets/a8a809a1-a89e-42d4-b481-cc72d0b04ea9' width ="45" alt='React Logo'/></a>
       <a href="https://tailwindcss.com" target="_blank"><img src='https://github.com/user-attachments/assets/e35d10ed-b330-426f-82c9-5eb83dfba05a' width ="45" alt='Tailwind Logo'/></a>
+      <a href="https://www.docker.com" target="_blank"><img src='https://github.com/user-attachments/assets/34312119-7b20-4d3c-9a6e-7ae72723d335' width="45" alt='Docker Logo'></a>
+      <a href="https://www.postgresql.org" target="_blank"><img src='https://github.com/user-attachments/assets/3ff5ed88-f538-4cfa-be52-46eb48980fb1' width="45" alt='PostgreSQL Logo'></a>
     </details>
     <details>
       <!-- Libraries -->
       <summary><h3>Libraries</h3></summary>
-      <a href="https://pandas.pydata.org" target="_blank"><img src='https://github.com/user-attachments/assets/b1ab95c7-3080-4533-92f3-a004ce0956da' width ="45" alt='Pandas Logo'/></a>
-      <a href="https://www.selenium.dev" target="_blank"><img src='https://github.com/user-attachments/assets/76aae124-e13d-4d4b-ad20-640dd27347a6' width ="45" alt='Selenium Logo'/></a>
-      <a href="https://matplotlib.org" target="_blank"><img src='https://github.com/user-attachments/assets/76e3597e-1730-4356-89a9-c1f6423127c3' width ="45" alt='Matplotlib Logo'/></a>
-      <a href="https://scikit-learn.org/stable/" target="_blank"><img src='https://github.com/user-attachments/assets/5d5afc00-5ee1-4ae4-a133-dc53cc652bb8' width ="45" alt='Scikit-learn Logo'/></a>
-      <a href="https://plotly.com" target="_blank"><img src='https://github.com/user-attachments/assets/47b56c9a-cd61-49e7-976d-4d0d9cf1664c' width ="45" alt='Ploty Logo'/></a>
-      <a href="https://www.djangoproject.com" target="_blank"><img src='https://github.com/user-attachments/assets/03f80f13-71c4-4cf4-ade6-2be166b27d2e' width ="45" alt='Django Logo'/></a>
-      <a href="https://docs.pytest.org/en/stable/" target="_blank"><img src='https://github.com/user-attachments/assets/23cca888-791b-4d3b-b844-4cfca63b3135' width ="45" alt='Pytest Logo'/></a>
-      <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img src='https://github.com/user-attachments/assets/1e1093cf-3f29-438a-a1e8-c949fe7c26fa' width ="45" alt='Flask Logo'/></a>
+      <div style="display: flex; flex-direction: row; align-items: center;">
+        <a href="https://pandas.pydata.org" target="_blank"><img src='https://github.com/user-attachments/assets/b1ab95c7-3080-4533-92f3-a004ce0956da' width ="45" alt='Pandas Logo'/></a>
+        <a href="https://www.selenium.dev" target="_blank"><img src='https://github.com/user-attachments/assets/76aae124-e13d-4d4b-ad20-640dd27347a6' width ="45" alt='Selenium Logo'/></a>
+        <a href="https://matplotlib.org" target="_blank"><img src='https://github.com/user-attachments/assets/76e3597e-1730-4356-89a9-c1f6423127c3' width ="45" alt='Matplotlib Logo'/></a>
+        <a href="https://scikit-learn.org/stable/" target="_blank"><img src='https://github.com/user-attachments/assets/5d5afc00-5ee1-4ae4-a133-dc53cc652bb8' width ="45" alt='Scikit-learn Logo'/></a>
+        <a href="https://plotly.com" target="_blank"><img src='https://github.com/user-attachments/assets/47b56c9a-cd61-49e7-976d-4d0d9cf1664c' width ="45" alt='Ploty Logo'/></a>
+        <a href="https://www.djangoproject.com" target="_blank"><img src='https://github.com/user-attachments/assets/03f80f13-71c4-4cf4-ade6-2be166b27d2e' width ="45" alt='Django Logo'/></a>
+        <a href="https://docs.pytest.org/en/stable/" target="_blank"><img src='https://github.com/user-attachments/assets/23cca888-791b-4d3b-b844-4cfca63b3135' width ="45" alt='Pytest Logo'/></a>
+        <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img src='https://github.com/user-attachments/assets/1e1093cf-3f29-438a-a1e8-c949fe7c26fa' width ="45" alt='Flask Logo'/></a>
+        <a href="https://ui.shadcn.com" target="_blank"><img src='https://github.com/user-attachments/assets/04757bf4-80dd-4753-a90f-3eb20238f69a' width ="45" alt='Shadcn Logo'/></a>
+        <a href="https://www.framer.com/motion/" target="_blank"><img src='https://github.com/user-attachments/assets/fc932486-feef-46a6-942b-11c07b29cbea' width ="45" alt='Framer Motion Logo'/></a>
+        <a href="https://www.sqlalchemy.org" target="_blank"><img src='https://github.com/user-attachments/assets/1cb8b47c-80ce-4ddd-9953-6e74ccf0c1f1' width ="45" alt='SQLAlchemy Logo'/></a> 
+      </div>
     </details>
   </div>
 </div>
