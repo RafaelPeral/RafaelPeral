@@ -100,8 +100,6 @@ I am eager to meet people who share similar interests and collaborate on innovat
     <a href="https://www.linkedin.com/in/rafael-peral-83438a278/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&Soon=linkedin&SoonColor=A901DB&&color:FFF"></a>   
     <!-- Instagram -->
     <a href="https://www.instagram.com/rafaelvenet/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&Soon=instagram&SoonColor=A901DB&&color:FFF"></a>
-    <!-- Connect -->
-    <a href="https://t.me/RafaelPeral" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Telegram-000?style=for-the-badge&Soon=instagram&SoonColor=A901DB&&color:FFF"></a>
   </div>
 </div>
 
@@ -116,7 +114,9 @@ I am eager to meet people who share similar interests and collaborate on innovat
     </h2>
   </summary>
   <div>
-    fygvh
+    <a href="https://portifolio-pearl-xi-97.vercel.app">
+      Portfolio Website
+    </a>
   </div>
 </details>
 
